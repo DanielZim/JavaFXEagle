@@ -1,0 +1,6 @@
+gui fixes
+- file dialog anfang
+- menüleiste
+- reset button
+- randomize thread
+- help implementieren

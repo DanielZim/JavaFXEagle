@@ -1,0 +1,24 @@
+Todo List: 
+
+- Parser
+
+1. Boardgröße für die Koordinatentransformation
+2. Im Element: Vorzeichenflip bei y-Koordinate
+3. Verwendung der Klassenstruktur
+
+- Klassenstruktur
+
+1. JavaFX Elemente erben
+
+- Hauptlogik
+
+1. Files parsen 
+2. Scene zeichnen
+3. Rausschreiben von .brd Files
+
+- Erzeugung von random Positionen
+
+1. Button ? 
+2. Toggle für automatische Erzeugung ? 
+
+- Menüleiste
